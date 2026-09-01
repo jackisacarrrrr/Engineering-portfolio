@@ -1,2 +1,2 @@
 # Engineering-portfolio
-Engineering project documentation and protfolio
+Engineering project documentation and portfolio
