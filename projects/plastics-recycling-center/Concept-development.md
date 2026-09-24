@@ -40,7 +40,9 @@ This is the process the plastic follows as it goes through the machine
 6. Mold is removed and the final product is removed.
 
 This is a flow chart showing the process.
-<img alt="Method of prodcution Flowchart" src="projects/plastics-recycling-center/Images/Flowchart1.png" width="500" height="500" align="center">
+
+<img alt="Method of prodcution Flowchart" src="https://github.com/jackisacarrrrr/Engineering-portfolio/blob/main/projects/plastics-recycling-center/Images/Flowchart1.png" width="800" height="800" align="center">
+
 
 #### End product
 The end product must be able to be molded via extusion, this means it has to be a simple shape with minimal ammounts of sharp turns as the presure of the liqid plastic will not be high
