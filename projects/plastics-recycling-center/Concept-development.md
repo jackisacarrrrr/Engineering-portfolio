@@ -78,6 +78,6 @@ The project will require several groups, these being:
 Each team will have their own seperate assigments and the combination of them will create a working proto-type
 
 #### Final Statment
-After the brainstorming phase we have concluded that this machine is plasuible to build within the giving timeframe, and we have made the inital steps of creating a calender to abide by when the project is greenlit.
+After the brainstorming phase we have concluded that this machine is plasuible to build within the givin timeframe, and we have made the inital steps of creating a calender to abide by when the project is greenlit.
 
  
