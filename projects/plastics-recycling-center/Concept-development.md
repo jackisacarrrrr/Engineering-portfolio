@@ -15,9 +15,13 @@ As stated in the design breif the machine must, shred, melt, and extrude the pla
 #### Mechanisms
 Sub-mechanisms needed are:
 - Cleaner
+  - Manual cleaning or automatic water based systems
 - Shredder
+  - Blade based system to make small plastic particles
 - Heating elements
+  - Heating pipes or ceramic tubes to create a hot enough enviroment for plastic to melt >480 f
 - Extrusions system
+  - Archamedes screw to push melted and unmelted plastic through a metling chamber into the mold
 
 These will all be combined to make the full plastic processing machine (cleaner can be made as a seperate non-mechanical machine)
 
